@@ -1,0 +1,25 @@
+{
+  "version": 4,
+  "assets": "https://nainbread.github.io/memory-genes-dist/releases/987cfbc512fe5f729c97c03a4e9da7e1c8ada69f-36177626898-1",
+  "app": "memory-genes",
+  "global": "__sveltekit_17gdes0",
+  "start": "_app/immutable/entry/start.B1lZWlGj.js",
+  "appEntry": "_app/immutable/entry/app.Ce_63wGO.js",
+  "styles": [],
+  "scripts": [],
+  "preloads": [
+    "https://nainbread.github.io/memory-genes-dist/releases/987cfbc512fe5f729c97c03a4e9da7e1c8ada69f-36177626898-1/_app/immutable/entry/start.B1lZWlGj.js",
+    "https://nainbread.github.io/memory-genes-dist/releases/987cfbc512fe5f729c97c03a4e9da7e1c8ada69f-36177626898-1/_app/immutable/chunks/ye4n5-gU.js",
+    "https://nainbread.github.io/memory-genes-dist/releases/987cfbc512fe5f729c97c03a4e9da7e1c8ada69f-36177626898-1/_app/immutable/chunks/Dpw0UYJw.js",
+    "https://nainbread.github.io/memory-genes-dist/releases/987cfbc512fe5f729c97c03a4e9da7e1c8ada69f-36177626898-1/_app/immutable/chunks/C06gxvYb.js",
+    "https://nainbread.github.io/memory-genes-dist/releases/987cfbc512fe5f729c97c03a4e9da7e1c8ada69f-36177626898-1/_app/immutable/entry/app.Ce_63wGO.js",
+    "https://nainbread.github.io/memory-genes-dist/releases/987cfbc512fe5f729c97c03a4e9da7e1c8ada69f-36177626898-1/_app/immutable/chunks/B_b_fuRm.js",
+    "https://nainbread.github.io/memory-genes-dist/releases/987cfbc512fe5f729c97c03a4e9da7e1c8ada69f-36177626898-1/_app/immutable/chunks/broIdCcY.js",
+    "https://nainbread.github.io/memory-genes-dist/releases/987cfbc512fe5f729c97c03a4e9da7e1c8ada69f-36177626898-1/_app/immutable/chunks/DbN5fMzz.js",
+    "https://nainbread.github.io/memory-genes-dist/releases/987cfbc512fe5f729c97c03a4e9da7e1c8ada69f-36177626898-1/_app/immutable/nodes/0.D62WKzoG.js"
+  ],
+  "social": {
+    "title": "Memory Genes",
+    "description": "An interactive website created with Project Factory."
+  }
+}
